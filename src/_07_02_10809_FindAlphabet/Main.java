@@ -1,4 +1,4 @@
-package _07_2_10809_FindAlphabet;
+package _07_02_10809_FindAlphabet;
 
 import java.util.Arrays;
 import java.util.Scanner;

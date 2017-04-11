@@ -1,4 +1,4 @@
-package _06_1_1152_CountWords;
+package _06_01_1152_CountWords;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package _06_3_8958_QuizOX;
+package _06_03_8958_QuizOX;
 
 import java.util.Scanner;
 

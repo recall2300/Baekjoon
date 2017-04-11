@@ -1,4 +1,4 @@
-package _04_2_10817_ThreeNumber;
+package _04_02_10817_ThreeNumber;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package _04_1_9498_Grade;
+package _04_01_9498_Grade;
 
 import java.util.Scanner;
 

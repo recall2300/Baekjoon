@@ -1,4 +1,4 @@
-package _04_3_10871_LessThanNumber;
+package _04_03_10871_LessThanNumber;
 
 import java.util.Scanner;
 

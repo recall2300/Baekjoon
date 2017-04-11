@@ -1,4 +1,4 @@
-package _07_3_2675_RepeatString;
+package _07_03_2675_RepeatString;
 
 import java.util.Scanner;
 

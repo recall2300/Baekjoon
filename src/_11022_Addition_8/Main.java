@@ -3,7 +3,6 @@ package _11022_Addition_8;
 import java.util.Scanner;
 
 public class Main {
-
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int testcase = scan.nextInt();
@@ -13,5 +12,4 @@ public class Main {
 			System.out.println("Case #" + (i + 1) + ": " + input1 + " + " + input2 + " = " + (input1 + input2));
 		}
 	}
-
 }

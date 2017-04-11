@@ -1,4 +1,4 @@
-package _07_1_11654_ASCII;
+package _07_01_11654_ASCII;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package _08_3_1193_FindFractionalNumber;
+package _08_03_1193_FindFractionalNumber;
 
 import java.util.Scanner;
 

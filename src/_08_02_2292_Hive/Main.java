@@ -1,4 +1,4 @@
-package _08_2_2292_Hive;
+package _08_02_2292_Hive;
 
 import java.util.Scanner;
 

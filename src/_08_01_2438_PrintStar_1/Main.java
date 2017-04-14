@@ -1,4 +1,4 @@
-package _08_1_2438_PrintStar_1;
+package _08_01_2438_PrintStar_1;
 
 import java.util.Scanner;
 
